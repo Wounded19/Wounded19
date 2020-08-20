@@ -1,5 +1,4 @@
 ### Hi there, I'm Nikola Plavšić 👋
----
 
 - 🌱 Ever since I started High School, I fell in love with the **`code`**!
 - 🧪 Always willing to try new technologies!
@@ -12,9 +11,7 @@ Right now I am working at **MasterLoot LLC** as a FullStack Developer, we use �
 
 ##### You read well, if anyone mentions Angular, I'll simply leave the room.
 
-
 ## 🍺 Personal Projects
-___
 
 In the meantime I am developing my personal website which will be available at 🌙 **[plavsic.dev](https://plavsic.dev)** ⭐
 
@@ -22,7 +19,7 @@ Full code will be exposed in the repository with the same name, feel free to rea
 It's mostly NextJS and one of the UI libraries you can find over the web.
 
 ## 📬 Get in touch
-___
+
 [![GitHub](https://img.shields.io/github/stars/Wounded19/plavsic.dev?style=social)]()
 [![GitHub](https://img.shields.io/github/watchers/Wounded19/plavsic.dev?label=Watch+plavsic.dev)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/nikolasus92?style=social)](https://twitter.com/nikolasus92)
