@@ -2,7 +2,7 @@
 
 - 🌱 Ever since I started High School, I fell in love with the **`code`**!
 - 🧪 Always willing to try new technologies!
-- ⚡ Huge fan of **React / NextJS**!
+- ⚡ Huge fan of **React / NextJS**! I'm decent with **WordPress too!**
 - 💧 I got highly interested in **GraphQL** as an API, I think it's a fantastic approach!
 - ☄️ I Love to play games! World of Warcraft, For the **Horde**! ❤️
 - 🔥 Sometimes I try other programming languages for fun
