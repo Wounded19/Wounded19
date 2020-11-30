@@ -7,8 +7,6 @@
 - ☄️ I Love to play games! World of Warcraft, For the **Horde**! ❤️
 - 🔥 Sometimes I try other programming languages for fun
 
-Right now I am working at **MasterLoot LLC** as a FullStack Developer, we use ✔️**MERN** as a technology stack.
-
 ##### You read well, if anyone mentions Angular, I'll simply leave the room.
 
 ## 🍺 Personal Projects
