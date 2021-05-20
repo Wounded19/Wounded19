@@ -7,7 +7,7 @@
 - ☄️ I Love to play games! World of Warcraft, For the **Horde**! ❤️
 - 🔥 Sometimes I try other programming languages for fun
 
-##### You read well, if anyone mentions Angular, I'll simply leave the room.
+##### You read well, no Angular pls here.
 
 ## 🍺 Personal Projects
 
